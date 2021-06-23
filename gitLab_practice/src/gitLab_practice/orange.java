@@ -13,6 +13,10 @@ public class orange {
 	System.out.println("color of apple is " + color);
 
 	}
+	String getColor()
+	{
+	return color;
+	}
 	
 
 }
